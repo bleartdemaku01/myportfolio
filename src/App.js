@@ -6,9 +6,14 @@ import About from "./components/about/About";
 import Skills from "./components/skills/Skills";
 import Services from "./components/services/Services";
 
+import { Helmet } from "react-helmet";
+
 function App() {
   return (
     <>
+      <Helmet>
+        <title>Portfolio | Bleart Demaku</title>
+      </Helmet>
       <Header />
       <main className="main">
         <Home />
