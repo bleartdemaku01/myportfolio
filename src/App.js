@@ -7,6 +7,7 @@ import Skills from "./components/skills/Skills";
 import Services from "./components/services/Services";
 
 import { Helmet } from "react-helmet";
+import Qualification from "./components/qualification/Qualification";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
         <About />
         <Skills />
         <Services />
+        <Qualification />
       </main>
     </>
   );
