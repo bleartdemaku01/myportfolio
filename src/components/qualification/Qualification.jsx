@@ -97,7 +97,7 @@ export default function Qualification() {
               </div>
             </div>
 
-            <div className="qualification__data">
+            {/* <div className="qualification__data">
               <div></div>
 
               <div>
@@ -113,7 +113,7 @@ export default function Qualification() {
                   2021 - Present
                 </div>
               </div>
-            </div>
+            </div> */}
           </div>
 
           <div
@@ -125,11 +125,11 @@ export default function Qualification() {
           >
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Web Developer</h3>
-                <span className="qualification__subtitle">Ubt</span>
+                <h3 className="qualification__title">Praktike 1 mujore</h3>
+                <span className="qualification__subtitle">Roi Academy</span>
                 <div className="qualification__calendar">
                   <i className="uil uil-calendar-alt"></i>
-                  2022 - Present
+                  2022 - May
                 </div>
               </div>
               <div>
@@ -147,16 +147,16 @@ export default function Qualification() {
               </div>
 
               <div>
-                <h3 className="qualification__title">Web Developer</h3>
+                <h3 className="qualification__title">Projekte të Fakulltetit</h3>
                 <span className="qualification__subtitle">Ubt</span>
                 <div className="qualification__calendar">
                   <i className="uil uil-calendar-alt"></i>
-                  2022 - Present
+                  2019 - 2021
                 </div>
               </div>
             </div>
 
-            <div className="qualification__data">
+            {/* <div className="qualification__data">
               <div>
                 <h3 className="qualification__title">Web Developer</h3>
                 <span className="qualification__subtitle">Ubt</span>
@@ -169,7 +169,7 @@ export default function Qualification() {
                 <span className="qualification__rounder"></span>
                 <span className="qualification__line"></span>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
