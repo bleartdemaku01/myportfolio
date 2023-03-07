@@ -18,7 +18,7 @@ export default function Services() {
           <div>
             <i className="uil uil-web-grid services__icon"></i>
             <h3 className="services__title">
-              Product <br /> Designer
+              Project <br /> Management
             </h3>
           </div>
 
@@ -87,7 +87,7 @@ export default function Services() {
           <div>
             <i className="uil uil-arrow services__icon"></i>
             <h3 className="services__title">
-              Ui/Ux <br /> Designer
+              Front End <br /> Coding
             </h3>
           </div>
 
@@ -156,7 +156,7 @@ export default function Services() {
           <div>
             <i className="uil uil-edit services__icon"></i>
             <h3 className="services__title">
-              Visual <br /> Designer
+              Back End <br /> Coding
             </h3>
           </div>
 

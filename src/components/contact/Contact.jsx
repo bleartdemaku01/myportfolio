@@ -73,7 +73,7 @@ export default function Contact() {
         </div>
 
         <div className="contact__content">
-          <h3 className="contact__title">Write me your project</h3>
+          <h3 className="contact__title">Message me through this Form</h3>
 
           <form ref={form} onSubmit={sendEmail} className="contact__form">
             <div className="contact__form-div">
@@ -109,7 +109,7 @@ export default function Contact() {
                 cols="30"
                 rows="10"
                 className="contact__form-input"
-                placeholder="Write your project"
+                placeholder="Write your message here"
               ></textarea>
             </div>
 

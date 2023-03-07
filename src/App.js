@@ -6,7 +6,7 @@ import About from "./components/about/About";
 import Skills from "./components/skills/Skills";
 import Services from "./components/services/Services";
 
-import { Helmet } from "react-helmet";
+// import { Helmet } from "react-helmet";
 import Qualification from "./components/qualification/Qualification";
 import Testimonials from "./components/testimonials/Testimonials";
 import Contact from "./components/contact/Contact";
@@ -15,9 +15,9 @@ import Work from "./components/work/Work";
 function App() {
   return (
     <>
-      <Helmet>
+      {/* <Helmet>
         <title>Portfolio | Bleart Demaku</title>
-      </Helmet>
+      </Helmet> */}
       <Header />
       <main className="main">
         <Home />
