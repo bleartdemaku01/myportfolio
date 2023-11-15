@@ -1,5 +1,4 @@
 import { Link } from "react-router-dom";
-import ReadMore from "./ReadMore";
 
 const WorksItems = ({ item }) => {
   return (

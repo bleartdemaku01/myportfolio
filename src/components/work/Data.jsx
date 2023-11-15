@@ -38,7 +38,7 @@ export const projectsData = [
   {
     id: 6,
     image: Work5,
-    title: "E-Commerce front-end website",
+    title: "E-Commerce website",
     category: "web",
   },
 ];
