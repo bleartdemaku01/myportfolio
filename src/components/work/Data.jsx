@@ -8,31 +8,37 @@ export const projectsData = [
   {
     id: 1,
     image: Work1,
-    title: "Web design",
+    title: "Netflix Clone",
     category: "web",
   },
   {
     id: 2,
     image: Work2,
-    title: "App movil",
+    title: "Ball for All",
     category: "app",
   },
   {
     id: 3,
     image: Work3,
-    title: "Brand design",
-    category: "design",
+    title: "GPT3",
+    category: "web",
   },
   {
     id: 4,
     image: Work4,
-    title: "App movil",
-    category: "app",
+    title: "Banking website",
+    category: "web",
   },
   {
     id: 5,
     image: Work5,
-    title: "Web design",
+    title: "Bugatti website",
+    category: "web",
+  },
+  {
+    id: 6,
+    image: Work5,
+    title: "E-Commerce front-end website",
     category: "web",
   },
 ];
@@ -46,8 +52,5 @@ export const projectsNav = [
   },
   {
     name: "app",
-  },
-  {
-    name: "design",
   },
 ];
